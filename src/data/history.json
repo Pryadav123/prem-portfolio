@@ -1,0 +1,35 @@
+[
+  {
+    "role": "Full Stack Developer",
+    "organisation": "News4U",
+    "startDate": "Jan, 2025",
+    "endDate": "Present",
+    "experiences": [
+      "Built a React.js-based news app using REST APIs",
+      "Implemented dynamic routing and category-based filtering"
+    ],
+    "imageSrc": "history/news4u.png"
+  },
+  {
+    "role": "Backend Developer",
+    "organisation": "E-Comm App",
+    "startDate": "Oct, 2024",
+    "endDate": "Dec, 2024",
+    "experiences": [
+      "Developed REST APIs using Spring Boot",
+      "Integrated MySQL for user, product, and order management"
+    ],
+    "imageSrc": "history/E-comm.png"
+  },
+  {
+    "role": "Frontend Developer",
+    "organisation": "Password Generator",
+    "startDate": "Aug, 2024",
+    "endDate": "Sep, 2024",
+    "experiences": [
+      "Designed a secure password generator with Tailwind CSS",
+      "Implemented copy-to-clipboard and responsive UI"
+    ],
+    "imageSrc": "history/passwordgen.png"
+  }
+]

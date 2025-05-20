@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Password Generator",
+    "imageSrc": "projects/passwordgen.png",
+    "description": "A secure password generator with customization features like length, character types, and a copy button. Built with a clean and responsive UI.",
+    "skills": ["HTML", "Tailwind CSS", "JavaScript"],
+    "demo": "https://pryadav123.github.io/PasswordGenerator/",
+    "source": "https://github.com/Pryadav123/PasswordGenerator"
+  },
+  {
+    "title": "E-Commerce Web App",
+    "imageSrc": "projects/E-comm.png",
+    "description": "A full-stack e-commerce website with Spring Boot backend, REST APIs, and MySQL for product, user, and order management.",
+    "skills": ["Java", "Spring Boot", "MySQL", "HTML", "CSS", "JavaScript"],
+    "demo": "",
+    "source": "https://github.com/Pryadav123/E-Comm"
+  },
+  {
+    "title": "News4U App",
+    "imageSrc": "projects/news4u.png",
+    "description": "A responsive news app built with React.js and REST APIs. Displays real-time news by category with smooth UI and routing.",
+    "skills": ["React.js", "JavaScript", "REST APIs", "HTML", "CSS"],
+    "demo": "",
+    "source": ""
+  }
+]
